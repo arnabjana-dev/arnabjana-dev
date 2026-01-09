@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hey, I'm Arnab Jana
 
-<!--
-**arnabjana-dev/arnabjana-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full-Stack Developer | MERN | Node.js | System Design Enthusiast  
+🎓 BCA Student | Building real-world, production-grade systems  
+🇮🇳 India
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 What I Do
+- Build **scalable backend systems** (Node.js, Express, Redis, MongoDB, PostgreSQL)
+- Design **real-world architectures** (queues, cron jobs, notifications, offline-first apps)
+- Work with **Docker, CI/CD, and cloud deployments**
+- Focus on **clean code, performance, and practical system design**
+
+---
+
+## 🔨 Tech Stack
+**Backend:** Node.js, Express, TypeScript  
+**Frontend:** React, React Native  
+**Databases:** MongoDB, PostgreSQL, Redis  
+**DevOps:** Docker, Nginx, Azure VM  
+**Tools:** Prisma, FFmpeg, BullMQ  
+
+---
+
+## 🚧 Currently Working On
+- 🔐 Sicuaura – Safety & School ERP Platform
+- ⚙️ Video Processing Server using FFmpeg
+- 📦 Production-ready notification & job queue systems
+
+---
+
+## 📫 Reach Me
+- LinkedIn: https://www.linkedin.com/in/arnabjana01/
+- Email: arnabjana.works@gmail.com
+
+---
+
+⚡ *I believe in building things that survive production, not just tutorials.*
